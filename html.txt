@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Team Profile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>SUPER TEAM</h1>
+    <div class="team-container">
+
+        <div class="member">
+            <img src="pogi.jpg" alt="Zhandro Rhuzzel Gabelo">
+            <h2>Zhandro Rhuzzel Gabelo</h2>
+            <p><strong>Address:</strong> 182 bautista st. purok 2 Bayanan Muntinlupa City</p>
+                <p><strong>CP Number:</strong> 09920599061</p>
+            <p><strong>Email:</strong> zhandro.gabelo8@gmail.com</p>
+        </div>
+
+        <div class="member">
+            <img src="cutes.jpeg" alt="Johnmark Villarias">
+            <h2>Johnmark Villarias</h2>
+            <p><strong>Address:</strong> 26 interior ilaya st. Alabang Muntinlupa City</p>
+    <p><strong>CP Number:</strong> 09937981685</p>
+            <p><strong>Email:</strong> 
+
+jvillarias2020@gmail.com</p>
+        </div>
+
+        <div class="member">
+            <img src="speds.jpeg" alt="Lhancel Manlangit">
+            <h2>Lhancel Manlangit</h2>
+            <p><strong>Address:</strong> 233 blk 2 purok 3 Bayanan Muntinlupa City</p>
+    <p><strong>CP Number:</strong>09309619076p>
+            <p><strong>Email:</strong> Wanzelmanlangit02 @gmail
+Com</p>
+        </div>
+      <div class="member">
+            <img src="hey.jpeg" alt="Michael Fredrick Dela Cruz Maturan">
+            <h2>Michael Fredrick Dela Cruz Maturan</h2>
+            <p><strong>Address:</strong> phase 1 block 33 lot 34 southville 3 poblacion muntinlupa city</p>
+    <p><strong>CP Number: 09207636616</strong></p>
+            <p><strong>Email:</strong> michealmaturan@gmail.com</p>
+        </div>
+    </div>
+</body>
+</html>
